@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me:
 
-  I am an Apprentice frontend developer in the 3rd year of apprenticeship <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   from Switzerland.
+  I am an apprentice frontend developer in the 3rd year of apprenticeship <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   from Switzerland.
 
 ---
 
